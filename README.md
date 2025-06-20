@@ -18,3 +18,6 @@
      <a href="https://www.python.org" target="_blank">
     <img alt="PSQL" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   </a>
+   <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  </a>
